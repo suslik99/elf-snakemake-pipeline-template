@@ -1,0 +1,4 @@
+* {{cookiecutter.pipeline_name}}
+
+{{cookiecutter.description}}
+
